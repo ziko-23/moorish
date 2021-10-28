@@ -1,1 +1,2 @@
 # moorish
+npm install
